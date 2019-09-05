@@ -7,6 +7,12 @@
 # TODO: Mention Nginx and link to docs regarding that configuration if used.
 # -----------------------------------------------------------------------------
 
+# THESE OTHER ISSUES MAY EFFECT HTACCESS
+# https://github.com/modxcms/revolution/issues/14568
+# https://github.com/modxcms/revolution/issues/13259
+# https://github.com/modxcms/revolution/issues/13241
+# https://github.com/modxcms/revolution/issues/12194
+
 
 # -----------------------------------------------------------------------------
 # Follow symbolic links. If your host gives a 500 error, try uncommenting the
